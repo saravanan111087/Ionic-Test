@@ -1,0 +1,8 @@
+{
+  "name": "billgenerator-1",
+  "app_id": "42608764",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
